@@ -1,11 +1,11 @@
 # Phys432 - PS4
-Solutions for PS4 for Phys 432 at McGill 2020
+## Solutions for PS4, Phys 432 W2020
 
 Anthony Ivakhnenko
 
 Python 3.7
 
-Advection.py 
+**Advection.py **
 
   Solution to problem 1: Advection Equation
   
@@ -13,9 +13,9 @@ Advection.py
     
     Updated each value using the advection equation, for 5000 steps
     
-  Worked closely with <Professor Eve Lee>
+    Worked closely with Professor Eve Lee
   
-Advection-Diffusion.py
+**Advection-Diffusion.py**
 
   Solution to problem 2: Advection-Diffusion Equation
   
