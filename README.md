@@ -5,9 +5,9 @@ Anthony Ivakhnenko
 
 Python 3.7
 
-**Advection.py **
+###Advection.py
 
-  Solution to problem 1: Advection Equation
+    **Solution to problem 1: Advection Equation**
   
     Set initial conditions as stated in problem
     
@@ -15,9 +15,9 @@ Python 3.7
     
     Worked closely with Professor Eve Lee
   
-**Advection-Diffusion.py**
+###Advection-Diffusion.py**
 
-  Solution to problem 2: Advection-Diffusion Equation
+    **Solution to problem 2: Advection-Diffusion Equation**
   
     set initial conditions as stated in problem
     
